@@ -5,9 +5,9 @@ import smtplib, ssl
 import os
 import sqlite3
 
-"INSERT INTO events VALUES ('Tigers', 'Tiger city', '2088.10.15')"
-"SELECT * FROM events WHERE date='2088.10.15'"
-"DELETE FROM events WHERE band='Tigers'"
+#"INSERT INTO events VALUES ('Tigers', 'Tiger city', '2088.10.15')"
+#"SELECT * FROM events WHERE date='2088.10.15'"
+#"DELETE FROM events WHERE band='Tigers'"
 
 
 URL = "http://programmer100.pythonanywhere.com/tours/"
